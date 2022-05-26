@@ -1,6 +1,7 @@
 # **이화냥탐험대🐱**
 
-## 새내기를 위한 캠퍼스 투어 AR 게임 <br>
+## "새내기를 위한 캠퍼스 투어 AR 게임" 🎮
+<br>
 이화여자대학교를 배경으로 온,오프라인을 넘나드는 AR 퍼즐 게임🎮
 <br>
 
@@ -34,4 +35,4 @@ ar plane manager : 잉여계단, 학문관 스테이지 구현 시 mesh 생성�
 [PositionTracking&GestureRecognition](https://velog.io/@topnotchsh/유니티로-AR-게임-만들기)<br><br><br>
 
 ## Poster
-![24_이화냥탐험대.pdf](https://github.com/ihj0303/Test/files/8781243/24_.pdf)
+
