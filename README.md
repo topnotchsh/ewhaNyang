@@ -11,7 +11,6 @@
 |GPS 개발|AR 파트 개발|AR 파트 개발|UI 및 2D 개발|
 |[@LIN9419](http://github.com/LIN9419)|[@topnotchsh](http://github.com/topnotchsh)|[@ihj0303](http://github.com/ihj0303)|[@s0ooo0k](http://github.com/s0ooo0k)|
 <br>
-<br>
 
 ### 사용된 기술 스택
 <img src="https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white"/> <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white"/>
@@ -28,7 +27,7 @@
 이화여자대학교 캠퍼스를 돌아다니며 고양이들을 모두 모아보자!<br>
 
 ## Player Scenario📑
-<img src="![그림1](https://user-images.githubusercontent.com/61587396/170562327-102beadf-7697-4191-beb7-9ca4e5cf9460.png)" width=800px>
+<img src="https://user-images.githubusercontent.com/61587396/170562327-102beadf-7697-4191-beb7-9ca4e5cf9460.png" width=800px>
 <br>
 
 
