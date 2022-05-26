@@ -29,12 +29,21 @@
 <br>
 
 ## Player Scenario📑
+### 7개의 스테이지
+✔ 정문 - “학교의 시작인 정문에서 교표를 찾아보자!”<br>
+✔ 대강당 - “직접 고양이가 되어 사진을 찍어보자!" <br>
+✔ 학문관 - "생선뼈를 그릇에 던져 고양이를 부르자!"<br>
+✔ 포스코관 - "포스코관 게시판에 숨은 비밀은?"<br>
+✔ 도서관 - "도서관의 모든 것을 파헤치자" <br>
+✔ 본관 - "본관냥이를 악몽으로부터 구해라!" <br>
+✔ ECC - "고양이들을 잉여계단에 초대하자!" <br>
 <img src="https://user-images.githubusercontent.com/61587396/170562327-102beadf-7697-4191-beb7-9ca4e5cf9460.png" width=800px>
 <br>
 
   
 ## Play Video📽
 ⬇ Click 시 시연영상으로 이동합니다!<br>
+<br>
 [![Play Video](http://img.youtube.com/vi/79j_iX59gbE/0.jpg)](https://youtu.be/79j_iX59gbE)
 <br>
 
