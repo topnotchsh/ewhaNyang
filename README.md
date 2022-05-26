@@ -4,6 +4,7 @@
 
 <br>
 <br>
+
 ### TEAM 2NE4 
 |김세은|이수현|임하정|지현숙|
 |:---:|:---:|:---:|:---:|
@@ -34,4 +35,5 @@ ar plane manager : 잉여계단, 학문관 스테이지 구현 시 mesh 생성�
 [PositionTracking&GestureRecognition](https://velog.io/@topnotchsh/유니티로-AR-게임-만들기)<br><br><br>
 
 ## Poster
-[!다운로드](https://user-images.githubusercontent.com/61587396/170558732-5a2f6b03-962b-4355-a1f4-bbe5228446cb.jpg)
+![24_포스터](https://user-images.githubusercontent.com/61587396/170558732-5a2f6b03-962b-4355-a1f4-bbe5228446cb.jpg)
+
