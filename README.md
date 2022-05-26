@@ -26,12 +26,15 @@
 "2년 동안 캠퍼스가 비어있어 건물의 수호냥들이 다 사라졌다!"<br>
 건물의 수호냥들을 모두 찾아달라는 의문의 편지를 받은 플레이어.<br>
 이화여자대학교 캠퍼스를 돌아다니며 고양이들을 모두 모아보자!<br>
-<Br>
+<br>
 
 ## Player Scenario📑
 <img src="https://user-images.githubusercontent.com/61587396/170562327-102beadf-7697-4191-beb7-9ca4e5cf9460.png" width=800px>
 <br>
 
+  
+## Play Video📽
+<iframe width="560" height="315" src="https://www.youtube.com/embed/79j_iX59gbE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Assets
 Vuforia : 정문 스테이지, 포도길 스테이지 구현  
