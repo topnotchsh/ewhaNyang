@@ -37,8 +37,12 @@
 ✔ 도서관 - "도서관의 모든 것을 파헤치자" <br>
 ✔ 본관 - "본관냥이를 악몽으로부터 구해라!" <br>
 ✔ ECC - "고양이들을 잉여계단에 초대하자!" <br>
+<br>
 <img src="https://user-images.githubusercontent.com/61587396/170562327-102beadf-7697-4191-beb7-9ca4e5cf9460.png" width=800px>
 <br>
+
+## Main Page
+![그림3](https://user-images.githubusercontent.com/61587396/170565284-2e96ec93-c1b4-43b7-817c-1d55dc53a8e3.png)
 
   
 ## Play Video📽
