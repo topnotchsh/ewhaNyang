@@ -5,8 +5,8 @@
 
 ### TEAM 2NE4 
 |<img src="https://avatars.githubusercontent.com/u/83402318?v=4" width=100px> |<img src="https://avatars.githubusercontent.com/u/83402318?v=4" width=100px> |<img src="https://avatars.githubusercontent.com/u/89908402?v=4" width=100px>|<img src="https://user-images.githubusercontent.com/61587396/132995012-093d17c5-e25a-4d20-9fc9-cbe7213b4340.jpg" width=100px>|
-|<b>김세은</b>|<b>이수현</b>|<b>임하정</b>|<b>지현숙</b>|
 |:---:|:---:|:---:|:---:|
+|<b>김세은</b>|<b>이수현</b>|<b>임하정</b>|<b>지현숙</b>|
 |GPS 개발|AR 파트 개발|AR 파트 개발|UI 및 2D 개발|
 |[@LIN9419](http://github.com/LIN9419)|[@topnotchsh](http://github.com/topnotchsh)|[@ihj0303](http://github.com/ihj0303)|[@s0ooo0k](http://github.com/s0ooo0k)|
 
