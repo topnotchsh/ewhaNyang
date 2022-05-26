@@ -42,7 +42,7 @@
 <br>
 
 ## Main Page
-<img scr="https://user-images.githubusercontent.com/61587396/170565284-2e96ec93-c1b4-43b7-817c-1d55dc53a8e3.png" width="500px">
+<img src="https://user-images.githubusercontent.com/61587396/170565284-2e96ec93-c1b4-43b7-817c-1d55dc53a8e3.png" width="500px">
 <br>
 
   
