@@ -1,12 +1,17 @@
 # **이화냥탐험대🐱**
-<h2>새내기를 위한 캠퍼스 투어 ar 게임*</h2><br><br><br>
+## 새내기를 위한 캠퍼스 투어 AR 게임
+이화여자대학교를 배경으로 온,오프라인을 넘나드는 AR 퍼즐 게임🎮
 
 
+### TEAM 2NE4 
 |김세은|이수현|임하정|지현숙|
 |:---:|:---:|:---:|:---:|
 |GPS 개발|ar 파트 개발|ar 파트 개발|UI 및 게임|
 |[@LIN9419](http://github.com/LIN9419)|[@topnotchsh](http://github.com/topnotchsh)|[@ihj0303](http://github.com/ihj0303)|[@s0ooo0k](http://github.com/s0ooo0k)|
 
+### 사용된 기술 스택
+<img src="https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white"/><img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white"/>
+</p>
 
 
 ## Description
@@ -14,8 +19,6 @@
 학교 곳곳을 직접 누비며 미션을 해결  
 각 건물별 기능, 학교의 문화, 생활 팁 전수<br><br><br>
 
-## Environment
-Unity, window64 i5 ram 8g<br><br>
 
 ## Prerequisite
 Vuforia : 정문 스테이지, 포도길 스테이지 구현  
