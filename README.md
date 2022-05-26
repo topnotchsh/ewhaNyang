@@ -2,6 +2,7 @@
 ### "새내기를 위한 캠퍼스 투어 AR 게임"  <br>
 이화여자대학교를 배경으로 온,오프라인을 넘나드는 AR 퍼즐 게임🎮
 <br>
+<br>
 
 ## TEAM 2NE4 ! - 그로쓰 24팀
 |<img src="https://avatars.githubusercontent.com/u/83402318?v=4" width=100px> |<img src="https://avatars.githubusercontent.com/u/83402318?v=4" width=100px> |<img src="https://avatars.githubusercontent.com/u/89908402?v=4" width=100px>|<img src="https://user-images.githubusercontent.com/61587396/132995012-093d17c5-e25a-4d20-9fc9-cbe7213b4340.jpg" width=100px>|
@@ -9,10 +10,11 @@
 |<b>김세은</b>|<b>이수현</b>|<b>임하정</b>|<b>지현숙</b>|
 |GPS 개발|AR 파트 개발|AR 파트 개발|UI 및 2D 개발|
 |[@LIN9419](http://github.com/LIN9419)|[@topnotchsh](http://github.com/topnotchsh)|[@ihj0303](http://github.com/ihj0303)|[@s0ooo0k](http://github.com/s0ooo0k)|
-
+<br>
+<br>
 ### 사용된 기술 스택
 <img src="https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white"/> <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white"/>
-
+<br>
 ## Why?
 ◾ 코로나로 인한 대면 활동의 부재<br>
 ◾ 학교를 처음 이용하는 사람들의 정보 부족<br>
