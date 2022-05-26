@@ -12,15 +12,17 @@
 |[@LIN9419](http://github.com/LIN9419)|[@topnotchsh](http://github.com/topnotchsh)|[@ihj0303](http://github.com/ihj0303)|[@s0ooo0k](http://github.com/s0ooo0k)|
 <br>
 <br>
+
 ### 사용된 기술 스택
 <img src="https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white"/> <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white"/>
 <br>
-## Why?
+
+## Why❔
 ◾ 코로나로 인한 대면 활동의 부재<br>
 ◾ 학교를 처음 이용하는 사람들의 정보 부족<br>
 ◾ 직접 체험하면서 캠퍼스를 파악할 수 있는 도구 필요<br>
 
-## Game Scenario
+## Game Scenario📜
 "2년 동안 캠퍼스가 비어있어 건물의 수호냥들이 다 사라졌다!"
 건물의 수호냥들을 모두 찾아달라는 의문의 편지를 받은 플레이어.
 이화여자대학교 캠퍼스를 돌아다니며 고양이들을 모두 모아보자!
