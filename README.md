@@ -4,6 +4,8 @@
 <br>
 
 ### TEAM 2NE4 
+
+|<img src="https://avatars.githubusercontent.com/u/83402318?v=4" width=150px>||<img src="https://avatars.githubusercontent.com/u/83402318?v=4" width=150px>||<img src="https://avatars.githubusercontent.com/u/89908402?v=4" width=150px>||<img src="https://user-images.githubusercontent.com/61587396/132995012-093d17c5-e25a-4d20-9fc9-cbe7213b4340.jpg" width=150px>|
 |김세은|이수현|임하정|지현숙|
 |:---:|:---:|:---:|:---:|
 |GPS 개발|AR 파트 개발|AR 파트 개발|UI 및 2D 개발|
