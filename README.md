@@ -52,11 +52,6 @@
 [![Play Video](http://img.youtube.com/vi/79j_iX59gbE/0.jpg)](https://youtu.be/79j_iX59gbE)
 <br>
 
-## Assets
-Vuforia : 정문 스테이지, 포도길 스테이지 구현  
-native toolkit : gps 활용 시 정확도를 높여주기 위함. ecc 스테이지 구현 시 앨범 접근 권한 설정 시 필요  
-google ar foundation : ecc 스테이지 사진 촬영 구현 시 face marker를 위해 사용  
-ar plane manager : 잉여계단, 학문관 스테이지 구현 시 mesh 생성하여 지면 인식을 위해 사용<br><br><br>
 
 ## Related Information
 [UI](https://blog.naver.com/diveintheblue/222736311664)  
