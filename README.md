@@ -34,6 +34,7 @@
 
   
 ## Play Video📽
+⬇ Click 시 시연영상으로 이동합니다!<br>
 [![Play Video](http://img.youtube.com/vi/79j_iX59gbE/0.jpg)](https://youtu.be/79j_iX59gbE)
 <br>
 
