@@ -28,6 +28,8 @@
 이화여자대학교 캠퍼스를 돌아다니며 고양이들을 모두 모아보자!<br>
 
 ## Player Scenario📑
+<img src="![그림1](https://user-images.githubusercontent.com/61587396/170562327-102beadf-7697-4191-beb7-9ca4e5cf9460.png)" width=800px>
+<br>
 
 
 ## Assets
@@ -43,5 +45,5 @@ ar plane manager : 잉여계단, 학문관 스테이지 구현 시 mesh 생성�
 [PositionTracking&GestureRecognition](https://velog.io/@topnotchsh/유니티로-AR-게임-만들기)<br><br><br>
 
 ## Poster
-![24_포스터](https://user-images.githubusercontent.com/61587396/170558732-5a2f6b03-962b-4355-a1f4-bbe5228446cb.jpg)
+<img src="![24_이화냥탐험대_page-0001](https://user-images.githubusercontent.com/61587396/170562289-949f8523-fb84-4176-89a1-e54d5196d922.jpg)" width=1200px>
 
