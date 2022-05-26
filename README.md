@@ -20,11 +20,13 @@
 ◾ 코로나로 인한 대면 활동의 부재<br>
 ◾ 학교를 처음 이용하는 사람들의 정보 부족<br>
 ◾ 직접 체험하면서 캠퍼스를 파악할 수 있는 도구 필요<br>
+<br>
 
 ## Game Scenario📜
 "2년 동안 캠퍼스가 비어있어 건물의 수호냥들이 다 사라졌다!"<br>
 건물의 수호냥들을 모두 찾아달라는 의문의 편지를 받은 플레이어.<br>
 이화여자대학교 캠퍼스를 돌아다니며 고양이들을 모두 모아보자!<br>
+<Br>
 
 ## Player Scenario📑
 <img src="https://user-images.githubusercontent.com/61587396/170562327-102beadf-7697-4191-beb7-9ca4e5cf9460.png" width=800px>
@@ -44,5 +46,5 @@ ar plane manager : 잉여계단, 학문관 스테이지 구현 시 mesh 생성�
 [PositionTracking&GestureRecognition](https://velog.io/@topnotchsh/유니티로-AR-게임-만들기)<br><br><br>
 
 ## Poster
-<img src="![24_이화냥탐험대_page-0001](https://user-images.githubusercontent.com/61587396/170562289-949f8523-fb84-4176-89a1-e54d5196d922.jpg)" width=1200px>
+<img src="https://user-images.githubusercontent.com/61587396/170562289-949f8523-fb84-4176-89a1-e54d5196d922.jpg" width=1200px>
 
