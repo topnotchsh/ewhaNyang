@@ -1,17 +1,18 @@
 # **이화냥탐험대🐱**
 
-## 새내기를 위한 캠퍼스 투어 AR 게임
+## 새내기를 위한 캠퍼스 투어 AR 게임 <br>
 이화여자대학교를 배경으로 온,오프라인을 넘나드는 AR 퍼즐 게임🎮
+<br>
 
 ### TEAM 2NE4 
 |김세은|이수현|임하정|지현숙|
 |:---:|:---:|:---:|:---:|
 |GPS 개발|AR 파트 개발|AR 파트 개발|UI 및 2D 개발|
 |[@LIN9419](http://github.com/LIN9419)|[@topnotchsh](http://github.com/topnotchsh)|[@ihj0303](http://github.com/ihj0303)|[@s0ooo0k](http://github.com/s0ooo0k)|
+<br>
 
 ### 사용된 기술 스택
 <img src="https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white"/> <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white"/>
-</p>
 
 
 ## Description
