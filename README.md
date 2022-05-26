@@ -34,7 +34,8 @@
 
   
 ## Play Video📽
-[[!Play Video](https://youtu.be/79j_iX59gbE/0.jpg)](https://youtu.be/79j_iX59gbE)
+[![Play Video](http://img.youtube.com/vi/79j_iX59gbE/0.jpg)](https://youtu.be/79j_iX59gbE)
+<br>
 
 ## Assets
 Vuforia : 정문 스테이지, 포도길 스테이지 구현  
