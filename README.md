@@ -3,6 +3,8 @@
 이화여자대학교를 배경으로 온,오프라인을 넘나드는 AR 퍼즐 게임🎮
 <br>
 <br>
+[이화냥탐험대 apk 다운받기🐾](https://drive.google.com/drive/u/0/folders/1PoG5tKNEn3Qulff7zXJSkQ8pRmnaDZU5)
+<br>
 
 ## TEAM 2NE4 ! - 그로쓰 24팀
 |<img src="https://avatars.githubusercontent.com/u/83402318?v=4" width=100px> |<img src="https://avatars.githubusercontent.com/u/83402318?v=4" width=100px> |<img src="https://avatars.githubusercontent.com/u/89908402?v=4" width=100px>|<img src="https://user-images.githubusercontent.com/61587396/132995012-093d17c5-e25a-4d20-9fc9-cbe7213b4340.jpg" width=100px>|
