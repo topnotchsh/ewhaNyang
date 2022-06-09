@@ -48,7 +48,20 @@ public class BGM : MonoBehaviour
         audio.clip = clp[num];
         audio.Play();
     }
-    
+    public void Lib()
+    {
+        AudioSource audio = GetComponent<AudioSource>();
+        num = 2;
+        audio.clip = clp[num];
+        audio.Play();
+    }
+    public void Inven()
+    {
+        AudioSource audio = GetComponent<AudioSource>();
+        num = 3;
+        audio.clip = clp[num];
+        audio.Play();
+    }
 
 
 }

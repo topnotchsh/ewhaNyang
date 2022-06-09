@@ -515,6 +515,8 @@ MonoBehaviour:
   clp:
   - {fileID: 8300000, guid: f481aa02c91945a4382b4167c113298f, type: 3}
   - {fileID: 8300000, guid: 87d7270d54fc24940878a6851c09aa0e, type: 3}
+  - {fileID: 8300000, guid: 7c187852c11209840903bee8dd03f0af, type: 3}
+  - {fileID: 8300000, guid: 5d1458d4b501b74489d728cb9d72cc3a, type: 3}
   num: 0
 --- !u!4 &1613247466
 Transform:

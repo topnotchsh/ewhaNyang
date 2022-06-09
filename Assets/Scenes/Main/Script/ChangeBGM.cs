@@ -14,6 +14,12 @@ public class ChangeBGM : MonoBehaviour
         }else if (num == 1)
         {
             BGM.instance.Shoot();
+        }else if (num == 2)
+        {
+            BGM.instance.Lib();
+        }else if (num == 3)
+        {
+            BGM.instance.Inven();
         }
 
     }
