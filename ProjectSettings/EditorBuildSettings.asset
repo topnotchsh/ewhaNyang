@@ -5,16 +5,73 @@ EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Scenes:
-  - enabled: 0
+  - enabled: 1
     path: Assets/Scenes/Hakmungwan/BallThrowing.unity
     guid: 701569e38b739dd419d9b0441cf4efc3
-  - enabled: 0
+  - enabled: 1
     path: Assets/Scenes/Bongwan/shootgame.unity
     guid: 7c9d3c179acbf438f811fb738aa6bc39
-  - enabled: 0
+  - enabled: 1
     path: Assets/Scenes/ECC/GestureControl.unity
     guid: 348eac222f1fd4012bdfc879d11ac44f
   - enabled: 1
     path: Assets/Scenes/Daegangdang/CatFace.unity
     guid: 7fcc76484c1ead043a8491010b7a7d9b
+  - enabled: 1
+    path: Assets/Scenes/Main/Scenes/StartScene.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/Main/Scenes/IntroScene.unity
+    guid: f42dd8c748ad2e941a654b6470d9225c
+  - enabled: 1
+    path: Assets/Scenes/Main/Scenes/LetterScene.unity
+    guid: 691be29ad1bb4eb4bb64b7e09662ef3c
+  - enabled: 1
+    path: Assets/Scenes/Main/Scenes/MainScene.unity
+    guid: 44fbf7962e76d9846bcd0c300cfe7138
+  - enabled: 1
+    path: Assets/Scenes/EntranceDoor/EwhaLogo.unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 1
+    path: Assets/Scenes/Main/Scenes/FinishMainDoor.unity
+    guid: ba43d5a85a1850a4eb57c859f836d79c
+  - enabled: 1
+    path: Assets/Scenes/Main/Scenes/CatlistScene.unity
+    guid: ae63c2bd1c2eda046be3c14a97f9ad6e
+  - enabled: 1
+    path: Assets/Scenes/Main/Scenes/RealMainScene.unity
+    guid: e4ac57dff294bb6419603f8351db1d44
+  - enabled: 1
+    path: Assets/Scenes/Bongwan/BeforeBongwan.unity
+    guid: 710cb7bc8c43cc64eade6fc19b1d3e40
+  - enabled: 1
+    path: Assets/Scenes/Hakmungwan/BeforeHakmu.unity
+    guid: 2ffbfa5b85bd9514799847889442e03f
+  - enabled: 1
+    path: Assets/Scenes/Hakmungwan/AfterHakmun.unity
+    guid: 47b68c0d80f59214986595eeb566a1c2
+  - enabled: 1
+    path: Assets/Scenes/Daegangdang/BeforeDaegangdang.unity
+    guid: f0cc7546c1901954399664e064531f7f
+  - enabled: 1
+    path: Assets/Scenes/ECC/BeforeEcc.unity
+    guid: 99fc7af2ada5a394789019013c7032ee
+  - enabled: 1
+    path: Assets/Scenes/Posco/Posco.unity
+    guid: 344556eb7952e4def8c0970c0946dfee
+  - enabled: 1
+    path: Assets/Scenes/Podogil/BeforePodo.unity
+    guid: 90cbc0cbc98678a468afd0644596c850
+  - enabled: 1
+    path: Assets/Scenes/Library/BeforeLibrary.unity
+    guid: 2c1e8c5c6e1667d4f97526120dcc8bc8
+  - enabled: 1
+    path: Assets/Scenes/ECC/AfterEcc.unity
+    guid: 61caa9fc0aa021b4ab4e046d7a04ebfe
+  - enabled: 1
+    path: Assets/Scenes/Posco/AfterPosco.unity
+    guid: 61cddf641cac99145a3e58744523dfba
+  - enabled: 1
+    path: Assets/Scenes/Posco/PoscoQr/test.unity
+    guid: f91b703b9b56ad9498f57265bb0e9fa1
   m_configObjects: {}
