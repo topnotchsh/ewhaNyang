@@ -17,7 +17,8 @@
 <br>
 
 ## Release Note
-[Release Note](ReleaseNote.md)
+[Release Note](ReleaseNote.md) - v.1.0.0 (2022.06.10)
+<br>
 
 ## Why❔
 ◾ 코로나로 인한 대면 활동의 부재<br>
