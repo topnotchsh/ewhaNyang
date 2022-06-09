@@ -77,4 +77,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Library/AfterScene.unity
     guid: 44f60a1a132825844a2a4a6b93433474
+  - enabled: 1
+    path: Assets/Scenes/Bongwan/AfterBongwan.unity
+    guid: e6ae33001d9d7b54d84def3d071f3bc1
   m_configObjects: {}
