@@ -213,7 +213,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!224 &10784792
 RectTransform:
   m_ObjectHideFlags: 0
@@ -444,7 +444,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!224 &54914653
 RectTransform:
   m_ObjectHideFlags: 0
@@ -593,7 +593,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!224 &80906217
 RectTransform:
   m_ObjectHideFlags: 0
@@ -1261,6 +1261,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1012937922}
+  - component: {fileID: 1012937923}
   m_Layer: 5
   m_Name: CatlistUI
   m_TagString: Untagged
@@ -1296,6 +1297,25 @@ RectTransform:
   m_AnchoredPosition: {x: 0, y: 0}
   m_SizeDelta: {x: -184, y: -406}
   m_Pivot: {x: 0.5, y: 0.5}
+--- !u!114 &1012937923
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1012937921}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a7cb501928d74aa4ca37b5fdce859336, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  bg: {fileID: 2110428904}
+  dgd: {fileID: 1095826004}
+  ecc: {fileID: 54914652}
+  hmk: {fileID: 1202336101}
+  lb: {fileID: 10784791}
+  podo: {fileID: 1023784360}
+  posco: {fileID: 80906216}
 --- !u!1 &1023784360
 GameObject:
   m_ObjectHideFlags: 0
@@ -1313,7 +1333,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!224 &1023784361
 RectTransform:
   m_ObjectHideFlags: 0
@@ -1426,7 +1446,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!224 &1095826005
 RectTransform:
   m_ObjectHideFlags: 0
@@ -1576,7 +1596,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!224 &1202336102
 RectTransform:
   m_ObjectHideFlags: 0
@@ -1926,7 +1946,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1455181629}
   m_Layer: 5
-  m_Name: Maindoor (7)
+  m_Name: podo
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -2660,7 +2680,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!224 &2110428905
 RectTransform:
   m_ObjectHideFlags: 0
