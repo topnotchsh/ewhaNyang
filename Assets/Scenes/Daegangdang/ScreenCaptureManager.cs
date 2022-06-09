@@ -10,14 +10,8 @@ using UnityEngine.Android;
 public class ScreenCaptureManager : MonoBehaviour
 {
     public GameObject UI;
-    public GameObject Clear;
 
     bool onCapture = false;
-
-    public void Start()
-    {
-        Clear.SetActive(false);
-    }
 
     public void PressBtnCapture()
     {
@@ -25,7 +19,6 @@ public class ScreenCaptureManager : MonoBehaviour
         {
             UI.SetActive(false);
             StartCoroutine("CRSaveScreenshot");
-            Clear.SetActive(true);
         }
     }
 

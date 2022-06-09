@@ -9,6 +9,6 @@ public class Gothrowing : MonoBehaviour
     // Start is called before the first frame update
     public void NextScene()
     {
-        SceneManager.LoadScene(4);
+        SceneManager.LoadScene(0);
     }
 }
