@@ -16,6 +16,10 @@
 <img src="https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white"/> <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white"/>
 <br>
 
+## Release Note
+[Release Note](ReleaseNote.md) - v.1.0.0 (2022.06.10)
+<br>
+
 ## Why❔
 ◾ 코로나로 인한 대면 활동의 부재<br>
 ◾ 학교를 처음 이용하는 사람들의 정보 부족<br>
