@@ -6,8 +6,8 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Scenes/Hakmungwan/BallThrowing.unity
-    guid: 701569e38b739dd419d9b0441cf4efc3
+    path: Assets/Scenes/Main/Scenes/StartScene.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
   - enabled: 1
     path: Assets/Scenes/Bongwan/shootgame.unity
     guid: 7c9d3c179acbf438f811fb738aa6bc39
@@ -18,8 +18,8 @@ EditorBuildSettings:
     path: Assets/Scenes/Daegangdang/CatFace.unity
     guid: 7fcc76484c1ead043a8491010b7a7d9b
   - enabled: 1
-    path: Assets/Scenes/Main/Scenes/StartScene.unity
-    guid: 2cda990e2423bbf4892e6590ba056729
+    path: Assets/Scenes/Hakmungwan/BallThrowing.unity
+    guid: 701569e38b739dd419d9b0441cf4efc3
   - enabled: 1
     path: Assets/Scenes/Main/Scenes/IntroScene.unity
     guid: f42dd8c748ad2e941a654b6470d9225c
@@ -80,4 +80,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Bongwan/AfterBongwan.unity
     guid: e6ae33001d9d7b54d84def3d071f3bc1
+  - enabled: 1
+    path: Assets/Scenes/Posco/BeforePosco.unity
+    guid: 409d631057c8f084daa25af6580070d8
   m_configObjects: {}
