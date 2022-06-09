@@ -6,7 +6,12 @@ public class BGM : MonoBehaviour
 {
     public static BGM instance = null;
 
-    public AudioClip Caketown;
+    //public AudioClip Caketown;
+    //public AudioClip ShootBGM;
+
+    public AudioClip[] clp;
+
+    public int num=0;
 
     void Start()
     {
@@ -23,13 +28,27 @@ public class BGM : MonoBehaviour
                 Destroy(this.gameObject);
         }
 
-        audio.clip = Caketown;
-
+        //audio.clip = Caketown;
+        audio.clip = clp[num];
         audio.Play();
-
 
     }
 
+    public void mainBGM()
+    {
+        AudioSource audio = GetComponent<AudioSource>();
+        num = 0;
+        audio.clip = clp[num];
+        audio.Play();
+    }
+    public void Shoot()
+    {
+        AudioSource audio = GetComponent<AudioSource>();
+        num = 1;
+        audio.clip = clp[num];
+        audio.Play();
+    }
+    
 
 
 }

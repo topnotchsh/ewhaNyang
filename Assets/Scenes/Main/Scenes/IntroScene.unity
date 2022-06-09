@@ -512,7 +512,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 2369dfea0100d914693c9f9ba7003cd3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  Caketown: {fileID: 8300000, guid: f481aa02c91945a4382b4167c113298f, type: 3}
+  clp:
+  - {fileID: 8300000, guid: f481aa02c91945a4382b4167c113298f, type: 3}
+  - {fileID: 8300000, guid: 87d7270d54fc24940878a6851c09aa0e, type: 3}
+  num: 0
 --- !u!4 &1613247466
 Transform:
   m_ObjectHideFlags: 0
