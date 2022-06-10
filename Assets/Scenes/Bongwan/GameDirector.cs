@@ -10,6 +10,8 @@ public class GameDirector : MonoBehaviour
     public GameObject HeartGenerator;
 
     GameObject hpGage;
+
+    public AudioClip HSound;
     // Start is called before the first frame update
     void Start()
     {
@@ -23,10 +25,15 @@ public class GameDirector : MonoBehaviour
     }
 
     public void DecreaseHp(){
+        AudioSource audio = GetComponent<AudioSource>();
+        audio.clip = HSound;
+        audio.Play();
 
-    	this.hpGage.GetComponent<Image>().fillAmount += 0.2f;
+        this.hpGage.GetComponent<Image>().fillAmount += 0.2f;
         
         if(this.hpGage.GetComponent<Image>().fillAmount == 1.0f){
+            
+
             GameOverText.SetActive(true);
             BulletGenerator.SetActive(false);
             HeartGenerator.SetActive(false);
