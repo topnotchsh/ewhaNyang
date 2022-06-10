@@ -17,9 +17,9 @@
 <br>
 
 ## Software
-Android Mobile Phone 
+Android OS Mobiel Device
 
-<bR>
+<br>
 
 ## Installation
 - [권장] 직접 다운로드 - [이화냥탐험대](https://drive.google.com/drive/u/0/folders/1PoG5tKNEn3Qulff7zXJSkQ8pRmnaDZU5) 후 안드로이드 기기에서 실행
@@ -29,6 +29,7 @@ Android Mobile Phone
   ```
   Assets > Scene > Main > Startscene 눌러 실행
   <br>
+  <br>
   
 ## How to Play
 - 가장 첫 스테이지인 '정문'의 경우, 튜토리얼로 클리어를 해야만 메인 게임 시작이 가능합니다.
@@ -37,7 +38,7 @@ Android Mobile Phone
   ![maindoor](https://user-images.githubusercontent.com/61587396/173046037-ea8a5121-f5db-42cc-9832-5acd9a672beb.jpg)
 
   
-  
+ 
 
 ### Version 1.0.0 (June 10th, 2022) [![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
 이화냥탐험대의 초기 버전은 [Vuforia](https://developer.vuforia.com/) 엔진이 포함되어 있습니다.
