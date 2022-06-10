@@ -36,7 +36,7 @@ Android OS Mobiel Device
 ## How to Play
 - 가장 첫 스테이지인 '정문'의 경우, 튜토리얼로 클리어를 해야만 메인 게임 시작이 가능합니다.
   <br> 직접 이화여자대학교 정문에 방문해서 게임을 시작해주세요.<br>
-  만약 직접 방문이 어려우신 경우 아래 사진을 target point에 인식시켜주세요.<br><
+  만약 직접 방문이 어려우신 경우 아래 사진을 target point에 인식시켜주세요.<br><br>
   ![maindoor](https://user-images.githubusercontent.com/61587396/173046037-ea8a5121-f5db-42cc-9832-5acd9a672beb.jpg)
 
   
