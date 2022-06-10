@@ -4107,7 +4107,7 @@ MonoBehaviour:
           m_FloatArgument: 0
           m_StringArgument: 
           m_BoolArgument: 0
-        m_CallState: 0
+        m_CallState: 2
       - m_Target: {fileID: 1738714001}
         m_MethodName: NextScene
         m_Mode: 1
