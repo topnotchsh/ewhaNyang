@@ -23,6 +23,8 @@
   git clone
   ```
   Assets > Scene > Main > Startscene 눌러 실행
+  
+  <br>
 
 ### Version 1.0.0 (June 10th, 2022) [![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
 이화냥탐험대의 초기 버전은 [Vuforia](https://developer.vuforia.com/) 엔진이 포함되어 있습니다.
