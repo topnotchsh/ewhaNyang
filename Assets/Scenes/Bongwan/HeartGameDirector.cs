@@ -9,6 +9,8 @@ public class HeartGameDirector : MonoBehaviour
     public GameObject BulletGenerator;
     public GameObject HeartGenerator;
 
+    public AudioClip getBullet;
+
     GameObject lifeGage;
     // Start is called before the first frame update
     void Start()
@@ -24,7 +26,11 @@ public class HeartGameDirector : MonoBehaviour
 
     public void DecreaseHeart(){
 
-    	this.lifeGage.GetComponent<Image>().fillAmount -= 0.333f;
+        AudioSource audio = GetComponent<AudioSource>();
+        audio.clip = getBullet;
+        audio.Play();
+
+        this.lifeGage.GetComponent<Image>().fillAmount -= 0.333f;
         
         if(this.lifeGage.GetComponent<Image>().fillAmount == 0.0f){
             GameOverText.SetActive(true);
