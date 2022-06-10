@@ -16,8 +16,10 @@
 
 <br>
 
-## Software
-Android OS Mobiel Device
+## Software & Permission
+### Android OS Mobiel Device
+- Camera
+- GPS
 
 <br>
 
