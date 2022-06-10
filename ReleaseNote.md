@@ -17,7 +17,7 @@
 <br>
 
 ## Installation
-- 직접 다운로드 - [이화냥탐험대]()
+- 직접 다운로드 - [이화냥탐험대](https://drive.google.com/drive/u/0/folders/1PoG5tKNEn3Qulff7zXJSkQ8pRmnaDZU5)
 - git을 통한 파일 전체 다운로드
   ```sh
   git clone
