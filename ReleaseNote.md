@@ -38,6 +38,10 @@ Android OS Mobiel Device
   <br> 직접 이화여자대학교 정문에 방문해서 게임을 시작해주세요.<br>
   만약 직접 방문이 어려우신 경우 아래 사진을 target point에 인식시켜주세요.<br><br>
   ![maindoor](https://user-images.githubusercontent.com/61587396/173046037-ea8a5121-f5db-42cc-9832-5acd9a672beb.jpg)
+  <br><br>
+  
+- 각 스테이지를 클리어할 경우 클리어 보상으로 고양이 아이콘이 주어집니다.<br>
+  왼쪽 하단의 고양이 아이콘을 누르면 확인 가능합니다.<br>
 
   
  
